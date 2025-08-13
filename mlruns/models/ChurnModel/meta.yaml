@@ -1,0 +1,8 @@
+aliases:
+  production: '4'
+creation_timestamp: 1755083593547
+deployment_job_id: null
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1755083640080
+name: ChurnModel

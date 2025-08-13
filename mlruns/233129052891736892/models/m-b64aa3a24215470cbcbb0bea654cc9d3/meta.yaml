@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/ryass/OneDrive/Documents/GitHub/MLflow_learn/MLflow_step_by_step/churn_project/mlruns/233129052891736892/models/m-b64aa3a24215470cbcbb0bea654cc9d3/artifacts
+creation_timestamp: 1755081301345
+experiment_id: '233129052891736892'
+last_updated_timestamp: 1755081306832
+model_id: m-b64aa3a24215470cbcbb0bea654cc9d3
+model_type: null
+name: model
+source_run_id: a4d2e6efa61d44baa5290e25dafe7c8b
+status: 2
+status_message: null

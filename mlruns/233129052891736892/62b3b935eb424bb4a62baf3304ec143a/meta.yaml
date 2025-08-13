@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ryass/OneDrive/Documents/GitHub/MLflow_learn/MLflow_step_by_step/churn_project/mlruns/233129052891736892/62b3b935eb424bb4a62baf3304ec143a/artifacts
+end_time: 1755083128862
+entry_point_name: ''
+experiment_id: '233129052891736892'
+lifecycle_stage: active
+run_id: 62b3b935eb424bb4a62baf3304ec143a
+run_name: salty-vole-660
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755082479514
+status: 3
+tags: []
+user_id: ryass

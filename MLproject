@@ -1,0 +1,17 @@
+name: churn-prediction
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    parameters:
+      estimator: {type: str, default: "logreg"}
+      C: {type: float, default: 1.0}
+      n_estimators: {type: int, default: 100}
+      do_tuning: {type: bool, default: false}
+    command: >
+      python train.py
+        --estimator {estimator}
+        --C {C}
+        --n_estimators {n_estimators}
+        {--do_tuning}

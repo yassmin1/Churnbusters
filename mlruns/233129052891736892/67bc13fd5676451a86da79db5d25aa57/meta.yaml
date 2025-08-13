@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/ryass/OneDrive/Documents/GitHub/MLflow_learn/MLflow_step_by_step/churn_project/mlruns/233129052891736892/67bc13fd5676451a86da79db5d25aa57/artifacts
+end_time: 1755081364238
+entry_point_name: ''
+experiment_id: '233129052891736892'
+lifecycle_stage: active
+run_id: 67bc13fd5676451a86da79db5d25aa57
+run_name: rf_n=50_depth=10
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755081345778
+status: 3
+tags: []
+user_id: ryass
